@@ -1,0 +1,8 @@
+Django==1.7.1
+argparse==1.2.1
+django-encrypted-fields==1.1.1
+psycopg2==2.5.4
+pyasn1==0.1.7
+pycrypto==2.6.1
+python-keyczar==0.71c
+wsgiref==0.1.2
